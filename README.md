@@ -2,6 +2,10 @@
 
 Welcome to CareAssist, your reliable healthcare companion! 🌐
 
+<img src="https://github.com/Himanshuteli/CareAssist/assets/34336017/19916079-2fab-4d9a-9c9d-2a75cc2156df" width="500" height="600">
+<img src="https://github.com/Himanshuteli/CareAssist/assets/34336017/12f89b0a-d1a5-4273-9d6b-06f35d6ba696" width="500" height="600">
+
+
 ## Overview
 
 CareAssist is a chatbot designed to streamline the patient assessment process. Built on top of create-next-app and leveraging conversational AI, this chatbot aims to enhance caregiver efficiency, improve patient outcomes, and provide valuable support throughout the healthcare journey.
@@ -27,28 +31,28 @@ To run CareAssist locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/himanshuteli/CareAssist.git
-   '''
+   ```
 
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    cd CareAssist
    npm install
-   ```bash
+   ```
 
-5. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
-   ```bash
+   ```
 
-7. Open (http://localhost:3000) in your browser to access CareAssist.
+4. Open (http://localhost:3000) in your browser to access CareAssist.
    
-Deployment
+## Deployment
 CareAssist is deployed on Vercel. Visit [Care Assist](care-assist-swart.vercel.app) to interact with the live chatbot.
 
-Usage
+## Usage
 Follow the on-screen prompts to provide medical history, assess patients, and utilize the various features CareAssist offers. Your feedback is invaluable to us in enhancing the chatbot's capabilities.
 
-Disclaimer
+## Disclaimer
 CareAssist is a tool to support healthcare professionals and patients. It is not a substitute for professional medical advice. Always consult with a healthcare provider for personalized recommendations.
 
 Thank you for choosing CareAssist for your healthcare needs. We are dedicated to providing a seamless and supportive experience for caregivers and patients alike.
