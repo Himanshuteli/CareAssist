@@ -14,24 +14,36 @@ CareAssist is a chatbot designed to streamline the patient assessment process. B
 - **Patient Education:** Deliver educational resources to empower patients and their families.
 - **Conversational AI:** Utilizes advanced conversational AI techniques for natural and efficient interactions.
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Node.js:** CareAssist is built using Node.js. Make sure you have it installed on your machine. [Download Node.js](https://nodejs.org/)
+
 ## Getting Started
 
 To run CareAssist locally, follow these steps:
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/himanshuteli/CareAssist.git
+   '''
 
-2. Install dependencies:
-    cd CareAssist
-    npm install
+3. Install dependencies:
+   ```bash
+   cd CareAssist
+   npm install
+   ```bash
 
-3. Start the development server:
-    npm run dev
+5. Start the development server:
+   ```bash
+   npm run dev
+   ```bash
 
-4. Open http://localhost:3000 in your browser to access CareAssist.
-
+7. Open (http://localhost:3000) in your browser to access CareAssist.
+   
 Deployment
-CareAssist is deployed on Vercel. Visit care-assist-swart.vercel.app to interact with the live chatbot.
+CareAssist is deployed on Vercel. Visit [Care Assist](care-assist-swart.vercel.app) to interact with the live chatbot.
 
 Usage
 Follow the on-screen prompts to provide medical history, assess patients, and utilize the various features CareAssist offers. Your feedback is invaluable to us in enhancing the chatbot's capabilities.
