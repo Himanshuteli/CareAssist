@@ -47,7 +47,7 @@ To run CareAssist locally, follow these steps:
 4. Open (http://localhost:3000) in your browser to access CareAssist.
    
 ## Deployment
-CareAssist is deployed on Vercel. Visit [Care Assist](care-assist-swart.vercel.app) to interact with the live chatbot.
+CareAssist is deployed on Vercel. Visit [Care Assist](https://care-assist-swart.vercel.app/)) to interact with the live chatbot.
 
 ## Usage
 Follow the on-screen prompts to provide medical history, assess patients, and utilize the various features CareAssist offers. Your feedback is invaluable to us in enhancing the chatbot's capabilities.
