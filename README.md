@@ -19,7 +19,7 @@ CareAssist is a chatbot designed to streamline the patient assessment process. B
 To run CareAssist locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/CareAssist.git
+   git clone https://github.com/himanshuteli/CareAssist.git
 
 2. Install dependencies:
     cd CareAssist
